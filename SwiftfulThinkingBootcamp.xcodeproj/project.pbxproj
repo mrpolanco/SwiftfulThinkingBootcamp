@@ -6,12 +6,7 @@
 	objectVersion = 77;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		9B657E6B2D273889009A75B8 /* TernaryBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B657E6A2D273889009A75B8 /* TernaryBootcamp.swift */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXFileReference section */
-		9B657E6A2D273889009A75B8 /* TernaryBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TernaryBootcamp.swift; sourceTree = "<group>"; };
 		9BD0BA782D073C880002BAA8 /* SwiftfulThinkingBootcamp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftfulThinkingBootcamp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -37,7 +32,6 @@
 		9BD0BA6F2D073C880002BAA8 = {
 			isa = PBXGroup;
 			children = (
-				9B657E6A2D273889009A75B8 /* TernaryBootcamp.swift */,
 				9BD0BA7A2D073C880002BAA8 /* SwiftfulThinkingBootcamp */,
 				9BD0BA792D073C880002BAA8 /* Products */,
 			);
@@ -125,7 +119,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9B657E6B2D273889009A75B8 /* TernaryBootcamp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
